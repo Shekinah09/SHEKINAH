@@ -1,5 +1,4 @@
 while True:
-    print("Menu Driven Program")
     print("1.Area of Circle")
     print("2.Area of Rectangle")
     print("3.Area of Square")    
